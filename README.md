@@ -48,7 +48,7 @@ G2Sampler, which is a G2Client GDK's Wrapper class, registers DLL's callback fun
 
 **Application Initialization**
 
-At the beginning of the application running with GDK, the initialization step should be needed for initializing GDK global variables.
+At the beginning of the application running with GDK, the initialization step should be needed to initialize GDK global variables.
 
 ```java
 static void Main()
