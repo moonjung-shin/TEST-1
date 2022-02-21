@@ -7,7 +7,7 @@ IDIS G2Client GDK does not include UI-related or drawing-related features. For t
 
   **Overview**
 
-  This programming guide is designed for developers who embark on application development using IDIS G2Client GDK. This guide provides all the useful information for the development of a prgram that performs remote monitoring features such as displaying currently monitored or previously recorded images through the service connected to the network and controlling PTZ operations.
+  This programming guide is designed for developers who embark on application development using IDIS G2Client GDK. This guide provides all the useful information for the development of a program that performs remote monitoring features such as displaying currently monitored or previously recorded images through the service connected to the network and controlling PTZ operations.
   
   This guide consists of the following: 
   + The Chapter "Getting started with the G2Client GDK" describing how to use the G2Client GDK.
@@ -48,7 +48,7 @@ G2Sampler, which is a G2Client GDK's Wrapper class, registers DLL's callback fun
 
 **Application Initialization**
 
-At the beginning of the application running with GDK, the initialization step should be needed to initialize GDK global variables.
+At the beginning of the application running with GDK, the initialization step should be needed for initializing GDK global variables.
 
 ```java
 static void Main()
