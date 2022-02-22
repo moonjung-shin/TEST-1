@@ -13,7 +13,7 @@ IDIS G2Client GDK does not include UI-related or drawing-related features. For t
   + The Chapter "Getting started with the G2Client GDK" describing how to use the G2Client GDK.
   + The Chapter "g2admin" describing how to obtain device information through access to iNEX Admin service.
   + The Chapter "g2_live" describing how to obtain monitored images in real time by accessing the iNEX streaming service.
-  + The Chapter "g2_play" describing how to obtain recorded images by accesesing the iNEX recording service.
+  + The Chapter "g2_play" describing how to obtain recorded images by accesesing iNEX recording service.
   + The Chapter "Authority" describing how to batin authorities for each user account.
   + The Chapter "PTZ Control" describing how to control Pan, Tilt and Zoom operations of the camera connected to a remote device.
   
