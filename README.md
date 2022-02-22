@@ -166,4 +166,4 @@ You can get G2GUID values of each registered service using g2admin.on_g2admin_no
 
 You can check device group information registered on admin service using ```g2admin. on_g2admin_receive_device_group_list callback``` function. Refer to ```g2_define_admin.cs``` for details of G2DEVICE_GROUP.
 
-You can check all devices' G2GUID value registered on admin service using g2admin.on_g2admin_receive_device_list callback function. If G2GUID.is_device_root value is true, you can get G2DEVICE_ROOT information using ```g2admin.on_g2admin_notify_connectable_service``` callback function. 
+You can check all devices' G2GUID value registered on the admin service using g2admin.on_g2admin_receive_device_list callback function. If G2GUID.is_device_root value is true, you can get G2DEVICE_ROOT information using ```g2admin.on_g2admin_notify_connectable_service``` callback function. 
