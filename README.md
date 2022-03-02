@@ -44,7 +44,7 @@ IDIS G2Client GDK does not include UI-related or drawing-related features. For t
   }
 ```
 
-G2Sampler, which is a G2Client GDK's Wrapper class, registers DLL's callback functions automatically. Application program must be developed to perform appropriate actions, by registering listener from receiving g2live_listener class.  
+G2Sampler, which is a G2Client GDK's Wrapper class, registers DLL's callback function automatically. Application program must be developed to perform appropriate actions, by registering listener from receiving g2live_listener class.  
 
 **Application Initialization**
 
